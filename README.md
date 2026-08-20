@@ -21,7 +21,7 @@
 | 9 | Dependency Inversion / Dependency Injection (DI) | ✅ Completed | [Open](Spring/S1-Introduction/09-Dependency-Inversion-and-Dependency-Injection/README.md) |
 | 10 | XML Configuration of DI | ✅ Completed | [Open](Spring/S1-Introduction/10-XML-Configuration-of-DI/README.md) |
 | 11 | Spring Bean Autowiring | ✅ Completed | [Open](Spring/S1-Introduction/11-Spring-Bean-Autowiring/README.md) |
-| 12 | Injection with @Autowired | ⏳ Pending | — |
+| 12 | Injection with @Autowired | ✅ Completed | [Open](Spring/S1-Introduction/12-Injection-with-Autowired/README.md) |
 | 13 | Java Based Configuration (@Configuration) | ⏳ Pending | — |
 
 ### Introduction Progress
@@ -40,7 +40,7 @@ S1 — Introduction
 ├── 9. Dependency Inversion / Dependency Injection (DI)       ✅
 ├── 10. XML Configuration of DI                               ✅
 ├── 11. Spring Bean Autowiring                                ✅
-├── 12. Injection with @Autowired                              ⏳
+├── 12. Injection with @Autowired                              ✅
 └── 13. Java Based Configuration (@Configuration)             ⏳
 ```
 
