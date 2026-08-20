@@ -6,14 +6,14 @@
 
 ### 1. Introduction
 
-> **Study rule:** S1 Introduction ke topics ko sequence mein complete karenge. Har topic ka separate deep-dive folder hoga aur yahan se uska direct link rahega.
+> **Study rule:** S1 Introduction ke topics ko sequence mein complete karenge. Har topic ka separate deep-dive folder hoga aur yahan se uska direct clickable link rahega.
 
 | # | Topic | Status | Link |
 |---|---|---|---|
 | 1 | Overview of Spring Technology | ✅ Completed | [Open](Spring/S1-Introduction/01-Overview-of-Spring-Technology/README.md) |
 | 2 | The Motivation for Spring, Spring Architecture | ✅ Completed | [Open](Spring/S1-Introduction/02-The-Motivation-for-Spring-and-Spring-Architecture/README.md) |
-| 3 | The Spring Framework | ⏳ Pending | — |
-| 4 | Spring Introduction | ⏳ Pending | — |
+| 3 | The Spring Framework | ✅ Completed | [Open](Spring/S1-Introduction/03-The-Spring-Framework/README.md) |
+| 4 | Spring Introduction | ✅ Completed | [Open](Spring/S1-Introduction/04-Spring-Introduction/README.md) |
 | 5 | Declaring and Managing Beans | ⏳ Pending | — |
 | 6 | BeanFactory vs ApplicationContext | ⏳ Pending | — |
 | 7 | Dependencies and Dependency Injection (DI) | ⏳ Pending | — |
@@ -31,8 +31,8 @@ S1 — Introduction
 │
 ├── 1. Overview of Spring Technology                         ✅
 ├── 2. The Motivation for Spring, Spring Architecture       ✅
-├── 3. The Spring Framework                                  ⏳
-├── 4. Spring Introduction                                   ⏳
+├── 3. The Spring Framework                                  ✅
+├── 4. Spring Introduction                                   ✅
 ├── 5. Declaring and Managing Beans                           ⏳
 ├── 6. BeanFactory vs ApplicationContext                      ⏳
 ├── 7. Dependencies and Dependency Injection (DI)             ⏳
