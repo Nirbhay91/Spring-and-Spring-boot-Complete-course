@@ -1,6 +1,6 @@
 # Spring — S1.2 Container Extension Points
 
-> **Status:** 🚧 Started
+> **Status:** 🚧 In Progress
 >
 > Is section ko topic-by-topic complete karenge. Har sub-topic ka separate folder + README hoga aur is page se clickable link maintain hoga.
 
@@ -12,7 +12,7 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 
 | # | Topic | Status | Link |
 |---|---|---|---|
-| 2.1 | Bean Scope and Lifecycle | ⏳ Pending | — |
+| 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](01-Bean-Scope-and-Lifecycle/README.md) |
 | 2.2 | Singleton, Prototype, and Other Scopes | ⏳ Pending | — |
 | 2.3 | Configuring Scope | ⏳ Pending | — |
 | 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | — |
@@ -87,10 +87,10 @@ Spring — S1
 │   └── S1.1 → S1.13                         ✅
 │
 └── 2. Container Extension Points
-    ├── 2.1 Bean Scope and Lifecycle          ⏳
+    ├── 2.1 Bean Scope and Lifecycle          ✅
     ├── 2.2 Singleton, Prototype, Other       ⏳
     ├── 2.3 Configuring Scope                 ⏳
     └── 2.4 Bean Lifecycle / Callbacks        ⏳
 ```
 
-**Next:** S1.2.1 — Bean Scope and Lifecycle
+**Next:** S1.2.2 — Singleton, Prototype, and Other Scopes
