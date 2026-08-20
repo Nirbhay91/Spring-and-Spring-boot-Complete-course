@@ -144,48 +144,24 @@
 | 1.6 | Authentication vs Authorization | ✅ Completed | [Open](Spring-S4/01-Spring-Security/06-Authentication-vs-Authorization/README.md) |
 | 1.7 | Principal, Credentials and Authorities | ✅ Completed | [Open](Spring-S4/01-Spring-Security/07-Principal-Credentials-and-Authorities/README.md) |
 | 1.8 | SecurityContext and SecurityContextHolder | ✅ Completed | [Open](Spring-S4/01-Spring-Security/08-SecurityContext-and-SecurityContextHolder/README.md) |
-| 1.9 | AuthenticationManager and ProviderManager | ⏳ Pending | — |
-| 1.10 | AuthenticationProvider | ⏳ Pending | — |
-| 1.11 | UserDetails and UserDetailsService | ⏳ Pending | — |
-| 1.12 | PasswordEncoder and BCrypt | ⏳ Pending | — |
-| 1.13 | In-Memory Authentication | ⏳ Pending | — |
-| 1.14 | JDBC/Database-backed Authentication | ⏳ Pending | — |
-| 1.15 | Custom UserDetailsService | ⏳ Pending | — |
-| 1.16 | SecurityFilterChain Configuration | ⏳ Pending | — |
-| 1.17 | Authorization Rules and RequestMatchers | ⏳ Pending | — |
-| 1.18 | Role vs Authority | ⏳ Pending | — |
-| 1.19 | Method-Level Security | ⏳ Pending | — |
-| 1.20 | `@PreAuthorize`, `@PostAuthorize`, `@Secured` | ⏳ Pending | — |
-| 1.21 | Form Login | ⏳ Pending | — |
-| 1.22 | HTTP Basic Authentication | ⏳ Pending | — |
-| 1.23 | Session Management | ⏳ Pending | — |
-| 1.24 | CSRF Protection | ⏳ Pending | — |
-| 1.25 | CORS with Spring Security | ⏳ Pending | — |
-| 1.26 | Exception Handling: AuthenticationEntryPoint & AccessDeniedHandler | ⏳ Pending | — |
-| 1.27 | Stateless vs Stateful Security | ⏳ Pending | — |
-| 1.28 | JWT Authentication Architecture | ⏳ Pending | — |
-| 1.29 | JWT Generation, Validation and Claims | ⏳ Pending | — |
-| 1.30 | JWT Authentication Filter | ⏳ Pending | — |
-| 1.31 | JWT Refresh Token Strategy | ⏳ Pending | — |
-| 1.32 | JWT Revocation / Logout Strategy | ⏳ Pending | — |
-| 1.33 | OAuth 2.0 Fundamentals | ⏳ Pending | — |
-| 1.34 | OAuth 2.0 Roles and Grant Types | ⏳ Pending | — |
-| 1.35 | OpenID Connect (OIDC) | ⏳ Pending | — |
-| 1.36 | OAuth2 Login | ⏳ Pending | — |
-| 1.37 | Resource Server | ⏳ Pending | — |
-| 1.38 | JWT Resource Server | ⏳ Pending | — |
-| 1.39 | Opaque Token Introspection | ⏳ Pending | — |
-| 1.40 | Authorization Server Concepts | ⏳ Pending | — |
-| 1.41 | Security Headers | ⏳ Pending | — |
-| 1.42 | Password Storage & Credential Security | ⏳ Pending | — |
-| 1.43 | Session Fixation, Brute Force and Common Attacks | ⏳ Pending | — |
-| 1.44 | Security Testing with Spring Security Test | ⏳ Pending | — |
-| 1.45 | MockMvc Security Testing | ⏳ Pending | — |
-| 1.46 | Spring Security in Microservices | ⏳ Pending | — |
-| 1.47 | API Gateway + Authentication | ⏳ Pending | — |
-| 1.48 | Service-to-Service Authentication | ⏳ Pending | — |
-| 1.49 | OAuth2 Client Credentials Flow | ⏳ Pending | — |
-| 1.50 | Security Best Practices & Production Checklist | ⏳ Pending | — |
-| 1.51 | Spring Security 6+ / Spring Boot 3+ Migration Notes | ⏳ Pending | — |
-| 1.52 | Spring Security Interview Questions & Scenarios | ⏳ Pending | — |
+| 1.9 | AuthenticationManager and ProviderManager | ✅ Completed | [Open](Spring-S4/01-Spring-Security/09-AuthenticationManager-and-ProviderManager/README.md) |
+| 1.10 | AuthenticationProvider | ✅ Completed | [Open](Spring-S4/01-Spring-Security/10-AuthenticationProvider/README.md) |
+| 1.11 | UsernamePasswordAuthenticationToken | ✅ Completed | [Open](Spring-S4/01-Spring-Security/11-UsernamePasswordAuthenticationToken/README.md) |
+| 1.12 | UserDetails and UserDetailsService | ✅ Completed | [Open](Spring-S4/01-Spring-Security/12-UserDetails-and-UserDetailsService/README.md) |
+| 1.13 | PasswordEncoder | ✅ Completed | [Open](Spring-S4/01-Spring-Security/13-PasswordEncoder/README.md) |
+| 1.14 | GrantedAuthority and Roles | ✅ Completed | [Open](Spring-S4/01-Spring-Security/14-GrantedAuthority-and-Roles/README.md) |
+| 1.15 | Authorization and Access Decisions | ✅ Completed | [Open](Spring-S4/01-Spring-Security/15-Authorization-and-Access-Decisions/README.md) |
+| 1.16 | Exception Handling in Spring Security | ✅ Completed | [Open](Spring-S4/01-Spring-Security/16-Exception-Handling-in-Spring-Security/README.md) |
+| 1.17 | CSRF Protection | ✅ Completed | [Open](Spring-S4/01-Spring-Security/17-CSRF-Protection/README.md) |
+| 1.18 | Session Management | ✅ Completed | [Open](Spring-S4/01-Spring-Security/18-Session-Management/README.md) |
+| 1.19 | Remember-Me Authentication | ✅ Completed | [Open](Spring-S4/01-Spring-Security/19-Remember-Me-Authentication/README.md) |
+| 1.20 | Security Headers | ✅ Completed | [Open](Spring-S4/01-Spring-Security/20-Security-Headers/README.md) |
+| 1.21 | OAuth2 Fundamentals | ✅ Completed | [Open](Spring-S4/01-Spring-Security/21-OAuth2-Fundamentals/README.md) |
+| 1.22 | OpenID Connect (OIDC) | ✅ Completed | [Open](Spring-S4/01-Spring-Security/22-OpenID-Connect-OIDC/README.md) |
+| 1.23 | JWT Authentication | ✅ Completed | [Open](Spring-S4/01-Spring-Security/23-JWT-Authentication/README.md) |
+| 1.24 | OAuth2 Resource Server | ✅ Completed | [Open](Spring-S4/01-Spring-Security/24-OAuth2-Resource-Server/README.md) |
+| 1.25 | OAuth2 Client | ✅ Completed | [Open](Spring-S4/01-Spring-Security/25-OAuth2-Client/README.md) |
+| 1.26 | Next source-sequence topic | ⏳ Pending | — |
 
+> **Current progress:** S4.1.25 completed.  
+> **Next source sequence:** S4.1.26 — continue from the next Spring Security topic.
