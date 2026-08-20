@@ -14,7 +14,7 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 |---|---|---|---|
 | 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](01-Bean-Scope-and-Lifecycle/README.md) |
 | 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](02-Singleton-Prototype-and-Other-Scopes/README.md) |
-| 2.3 | Configuring Scope | ⏳ Pending | — |
+| 2.3 | Configuring Scope | ✅ Completed | [Open](03-Configuring-Scope/README.md) |
 | 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | — |
 
 ---
@@ -89,8 +89,8 @@ Spring — S1
 └── 2. Container Extension Points
     ├── 2.1 Bean Scope and Lifecycle          ✅
     ├── 2.2 Singleton, Prototype, Other       ✅
-    ├── 2.3 Configuring Scope                 ⏳
+    ├── 2.3 Configuring Scope                 ✅
     └── 2.4 Bean Lifecycle / Callbacks        ⏳
 ```
 
-**Next:** S1.2.3 — Configuring Scope
+**Next:** S1.2.4 — Bean Lifecycle / Callbacks
