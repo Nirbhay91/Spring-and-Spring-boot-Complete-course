@@ -15,7 +15,7 @@
 | 3 | The Spring Framework | ✅ Completed | [Open](Spring/S1-Introduction/03-The-Spring-Framework/README.md) |
 | 4 | Spring Introduction | ✅ Completed | [Open](Spring/S1-Introduction/04-Spring-Introduction/README.md) |
 | 5 | Declaring and Managing Beans | ✅ Completed | [Open](Spring/S1-Introduction/05-Declaring-and-Managing-Beans/README.md) |
-| 6 | BeanFactory vs ApplicationContext | ⏳ Pending | — |
+| 6 | BeanFactory vs ApplicationContext | ✅ Completed | [Open](Spring/S1-Introduction/06-BeanFactory-vs-ApplicationContext/README.md) |
 | 7 | Dependencies and Dependency Injection (DI) | ⏳ Pending | — |
 | 8 | Examining Dependencies | ⏳ Pending | — |
 | 9 | Dependency Inversion / Dependency Injection (DI) | ⏳ Pending | — |
@@ -34,7 +34,7 @@ S1 — Introduction
 ├── 3. The Spring Framework                                  ✅
 ├── 4. Spring Introduction                                   ✅
 ├── 5. Declaring and Managing Beans                           ✅
-├── 6. BeanFactory vs ApplicationContext                      ⏳
+├── 6. BeanFactory vs ApplicationContext                      ✅
 ├── 7. Dependencies and Dependency Injection (DI)             ⏳
 ├── 8. Examining Dependencies                                 ⏳
 ├── 9. Dependency Inversion / Dependency Injection (DI)       ⏳
