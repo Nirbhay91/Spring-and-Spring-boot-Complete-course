@@ -13,7 +13,7 @@ Spring Expression Language (**SpEL**) Spring ecosystem ki expression language ha
 | # | Topic | Status | Link |
 |---|---|---|---|
 | 3.1 | Introduction To SpEL | ✅ Completed | [Open](01-Introduction-to-SpEL/README.md) |
-| 3.2 | SpEL Features | ⏳ Pending | — |
+| 3.2 | SpEL Features | ✅ Completed | [Open](02-SpEL-Features/README.md) |
 | 3.3 | SpEL expression evaluation against a specific object instance | ⏳ Pending | — |
 | 3.4 | SpEL in Bean Definition | ⏳ Pending | — |
 
@@ -79,9 +79,9 @@ Spring — S1
 ├── 2. Container Extension Points           ✅
 └── 3. Spring Expression Language (SpEL)
     ├── 3.1 Introduction To SpEL             ✅
-    ├── 3.2 SpEL Features                    ⏳
+    ├── 3.2 SpEL Features                    ✅
     ├── 3.3 Expression evaluation            ⏳
     └── 3.4 SpEL in Bean Definition          ⏳
 ```
 
-**Next:** S1.3.2 — SpEL Features
+**Next:** S1.3.3 — SpEL expression evaluation against a specific object instance
