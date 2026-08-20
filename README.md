@@ -5,19 +5,46 @@
 ## Spring - S1
 
 ### 1. Introduction
-- Overview of Spring Technology
-- The Motivation for Spring, Spring Architecture
-- The Spring Framework
-- Spring Introduction
-- Declaring and Managing Beans
-- BeanFactory vs ApplicationContext
-- Dependencies and Dependency Injection (DI)
-- Examining Dependencies
-- Dependency Inversion / Dependency Injection (DI)
-- XML Configuration of DI
-- Spring Bean Autowiring
-- Injection with @Autowire
-- Java Based Configuration (@Configuration)
+
+> **Study rule:** S1 Introduction ke topics ko sequence mein complete karenge. Har topic ka separate deep-dive folder hoga aur yahan se uska direct link rahega.
+
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 1 | Overview of Spring Technology | ✅ Completed | [Open](Spring/S1-Introduction/01-Overview-of-Spring-Technology/README.md) |
+| 2 | The Motivation for Spring, Spring Architecture | ✅ Completed | [Open](Spring/S1-Introduction/02-The-Motivation-for-Spring-and-Spring-Architecture/README.md) |
+| 3 | The Spring Framework | ⏳ Pending | — |
+| 4 | Spring Introduction | ⏳ Pending | — |
+| 5 | Declaring and Managing Beans | ⏳ Pending | — |
+| 6 | BeanFactory vs ApplicationContext | ⏳ Pending | — |
+| 7 | Dependencies and Dependency Injection (DI) | ⏳ Pending | — |
+| 8 | Examining Dependencies | ⏳ Pending | — |
+| 9 | Dependency Inversion / Dependency Injection (DI) | ⏳ Pending | — |
+| 10 | XML Configuration of DI | ⏳ Pending | — |
+| 11 | Spring Bean Autowiring | ⏳ Pending | — |
+| 12 | Injection with @Autowired | ⏳ Pending | — |
+| 13 | Java Based Configuration (@Configuration) | ⏳ Pending | — |
+
+### Introduction Progress
+
+```text
+S1 — Introduction
+│
+├── 1. Overview of Spring Technology                         ✅
+├── 2. The Motivation for Spring, Spring Architecture       ✅
+├── 3. The Spring Framework                                  ⏳
+├── 4. Spring Introduction                                   ⏳
+├── 5. Declaring and Managing Beans                           ⏳
+├── 6. BeanFactory vs ApplicationContext                      ⏳
+├── 7. Dependencies and Dependency Injection (DI)             ⏳
+├── 8. Examining Dependencies                                 ⏳
+├── 9. Dependency Inversion / Dependency Injection (DI)       ⏳
+├── 10. XML Configuration of DI                               ⏳
+├── 11. Spring Bean Autowiring                                ⏳
+├── 12. Injection with @Autowired                              ⏳
+└── 13. Java Based Configuration (@Configuration)             ⏳
+```
+
+---
 
 ### 2. Container Extensions Points
 - Bean Scope and Lifecycle
@@ -115,4 +142,3 @@
 - Custom Actuators and Health Checks
 - Devtools Overview
 - Other Tools and Features
-
