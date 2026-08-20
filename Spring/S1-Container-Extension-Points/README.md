@@ -1,8 +1,8 @@
 # Spring — S1.2 Container Extension Points
 
-> **Status:** 🚧 In Progress
+> **Status:** ✅ Completed
 >
-> Is section ko topic-by-topic complete karenge. Har sub-topic ka separate folder + README hoga aur is page se clickable link maintain hoga.
+> Har sub-topic ka separate deep-dive folder + README hai aur yahan se direct clickable link maintained hai.
 
 ## 2. Container Extension Points
 
@@ -10,10 +10,12 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 
 ### Topics
 
-1. [Bean Scope and Lifecycle](01-Bean-Scope-and-Lifecycle/README.md) — ✅ Completed
-2. [Singleton, Prototype, and Other Scopes](02-Singleton-Prototype-and-Other-Scopes/README.md) — ✅ Completed
-3. [Configuring Scope](03-Configuring-Scope/README.md) — ✅ Completed
-4. [Bean Lifecycle / Callbacks](04-Bean-Lifecycle-Callbacks/README.md) — ⏳ Pending
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](01-Bean-Scope-and-Lifecycle/README.md) |
+| 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](02-Singleton-Prototype-and-Other-Scopes/README.md) |
+| 2.3 | Configuring Scope | ✅ Completed | [Open](03-Configuring-Scope/README.md) |
+| 2.4 | Bean Lifecycle / Callbacks | ✅ Completed | [Open](04-Bean-Lifecycle-Callbacks/README.md) |
 
 ---
 
@@ -48,8 +50,6 @@ Interview mein important extension mechanisms:
 - `ApplicationContextAware` and related `Aware` interfaces
 - Event-based extension through Spring application events
 
-> **Important:** Is S1.2 section mein source ke listed topics ko sequence mein complete karenge. Advanced extension mechanisms ko relevant topic ke saath connect karenge.
-
 ## Interview Mental Model
 
 ```text
@@ -70,7 +70,7 @@ Container
 
 ## Navigation
 
-[← Previous — S1.13 Java Based Configuration](../S1-Introduction/13-Java-Based-Configuration-Configuration/README.md)
+[← Previous — S1.2.3 Configuring Scope](../S1-Container-Extension-Points/03-Configuring-Scope/README.md)
 
 [🏠 Spring & Spring Boot Complete Course](https://github.com/Nirbhay91/Spring-and-Spring-boot-Complete-course)
 
@@ -88,7 +88,7 @@ Spring — S1
     ├── 2.1 Bean Scope and Lifecycle          ✅
     ├── 2.2 Singleton, Prototype, Other       ✅
     ├── 2.3 Configuring Scope                 ✅
-    └── 2.4 Bean Lifecycle / Callbacks        ⏳
+    └── 2.4 Bean Lifecycle / Callbacks        ✅
 ```
 
-**Next:** S1.2.4 — Bean Lifecycle / Callbacks
+**Next:** S1.3 — Spring Expression Language (SpEL)
