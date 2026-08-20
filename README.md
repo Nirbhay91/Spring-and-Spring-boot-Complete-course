@@ -69,7 +69,7 @@
 |---|---|---|---|
 | 1.1 | Introduction | ✅ Completed | [Open](Spring-S2/01-DAO-Introduction/README.md) |
 | 1.2 | Plain JDBC limitations | ✅ Completed | [Open](Spring-S2/01-DAO-Introduction/02-Plain-JDBC-Limitations/README.md) |
-| 1.3 | Spring JDBC/DAO Advantages | ⏳ Pending | — |
+| 1.3 | Spring JDBC/DAO Advantages | ✅ Completed | [Open](Spring-S2/01-DAO-Introduction/03-Spring-JDBC-DAO-Advantages/README.md) |
 | 1.4 | Working with different Data Sources | ⏳ Pending | — |
 | 1.5 | JdbcTemplate | ⏳ Pending | — |
 | 1.6 | NamedParameterJdbcTemplate | ⏳ Pending | — |
