@@ -64,13 +64,16 @@
 ## Spring-S2
 
 ### 1. DAO Introduction
-- Introduction
-- Plain JDBC limitations
-- Spring JDBC/DAO Advantages
-- Working with different Data Sources
-- JdbcTemplate
-- NamedParameterJdbcTemplate
-- Spring JDBC/DAO with Annotations
+
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 1.1 | Introduction | ✅ Completed | [Open](Spring-S2/01-DAO-Introduction/README.md) |
+| 1.2 | Plain JDBC limitations | ✅ Completed | [Open](Spring-S2/01-DAO-Introduction/02-Plain-JDBC-Limitations/README.md) |
+| 1.3 | Spring JDBC/DAO Advantages | ⏳ Pending | — |
+| 1.4 | Working with different Data Sources | ⏳ Pending | — |
+| 1.5 | JdbcTemplate | ⏳ Pending | — |
+| 1.6 | NamedParameterJdbcTemplate | ⏳ Pending | — |
+| 1.7 | Spring JDBC/DAO with Annotations | ⏳ Pending | — |
 
 ### 2. Spring Transaction Management
 - Introduction to Transaction Management
