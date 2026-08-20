@@ -155,7 +155,7 @@
 | 1.1 | Introduction to Spring Security | ✅ Completed | [Open](Spring-S4/01-Spring-Security/01-Introduction-to-Spring-Security/README.md) |
 | 1.2 | Why Spring Security? | ✅ Completed | [Open](Spring-S4/01-Spring-Security/02-Why-Spring-Security/README.md) |
 | 1.3 | Spring Security Architecture | ✅ Completed | [Open](Spring-S4/01-Spring-Security/03-Spring-Security-Architecture/README.md) |
-| 1.4 | Security Filter Chain | ⏳ Pending | — |
+| 1.4 | Security Filter Chain | ✅ Completed | [Open](Spring-S4/01-Spring-Security/04-Security-Filter-Chain/README.md) |
 | 1.5 | DelegatingFilterProxy | ⏳ Pending | — |
 | 1.6 | Authentication vs Authorization | ⏳ Pending | — |
 | 1.7 | Principal, Credentials and Authorities | ⏳ Pending | — |
