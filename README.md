@@ -152,7 +152,7 @@
 
 | # | Topic / Subtopic | Status | Link |
 |---|---|---|---|
-| 1.1 | Introduction to Spring Security | ⏳ Pending | — |
+| 1.1 | Introduction to Spring Security | ✅ Completed | [Open](Spring-S4/01-Spring-Security/01-Introduction-to-Spring-Security/README.md) |
 | 1.2 | Why Spring Security? | ⏳ Pending | — |
 | 1.3 | Spring Security Architecture | ⏳ Pending | — |
 | 1.4 | Security Filter Chain | ⏳ Pending | — |
