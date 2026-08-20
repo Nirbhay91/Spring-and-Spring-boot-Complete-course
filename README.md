@@ -6,8 +6,6 @@
 
 ### 1. Introduction
 
-> **Study rule:** S1 Introduction ke topics ko sequence mein complete karenge. Har topic ka separate deep-dive folder hoga aur yahan se uska direct clickable link rahega.
-
 | # | Topic | Status | Link |
 |---|---|---|---|
 | 1 | Overview of Spring Technology | ✅ Completed | [Open](Spring/S1-Introduction/01-Overview-of-Spring-Technology/README.md) |
@@ -24,8 +22,6 @@
 | 12 | Injection with @Autowired | ✅ Completed | [Open](Spring/S1-Introduction/12-Injection-with-Autowired/README.md) |
 | 13 | Java Based Configuration (@Configuration) | ✅ Completed | [Open](Spring/S1-Introduction/13-Java-Based-Configuration-Configuration/README.md) |
 
----
-
 ### 2. Container Extension Points
 
 | # | Topic | Status | Link |
@@ -34,8 +30,6 @@
 | 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/02-Singleton-Prototype-and-Other-Scopes/README.md) |
 | 2.3 | Configuring Scope | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/03-Configuring-Scope/README.md) |
 | 2.4 | Bean Lifecycle / Callbacks | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/04-Bean-Lifecycle-Callbacks/README.md) |
-
----
 
 ### 3. Spring Expression Language (SpEL)
 
@@ -46,10 +40,6 @@
 | 3.3 | SpEL expression evaluation against a specific object instance | ✅ Completed | [Open](03-Expression-Evaluation-Against-Specific-Object/README.md) |
 | 3.4 | SpEL in Bean Definition | ✅ Completed | [Open](04-SpEL-in-Bean-Definition/README.md) |
 
-[Open S1.3 SpEL Folder](Spring/S1-SpEL/README.md)
-
----
-
 ### 4. Spring AOP APIs
 
 | # | Topic | Status | Link |
@@ -58,8 +48,6 @@
 | 4.2 | AOP Terminology | ✅ Completed | [Open](Spring/S1-AOP-APIs/02-AOP-Terminology/README.md) |
 | 4.3 | Types of Advice | ✅ Completed | [Open](Spring/S1-AOP-APIs/03-Types-of-Advice/README.md) |
 | 4.4 | Custom Logging support Aspect Implementation | ✅ Completed | [Open](Spring/S1-AOP-APIs/04-Custom-Logging-Support-Aspect-Implementation/README.md) |
-
----
 
 ## Spring-S2
 
@@ -142,13 +130,9 @@
 - Custom Actuators and Health Checks
 - Devtools Overview
 
----
-
 # Spring - S4
 
 ## 1. Spring Security
-
-> **Study rule:** Spring Security ko interview + production level par sequence mein cover karenge. Har topic/subtopic ka separate folder hoga aur completion ke baad yahan clickable link + status update hoga.
 
 | # | Topic / Subtopic | Status | Link |
 |---|---|---|---|
@@ -159,7 +143,7 @@
 | 1.5 | DelegatingFilterProxy | ✅ Completed | [Open](Spring-S4/01-Spring-Security/05-DelegatingFilterProxy/README.md) |
 | 1.6 | Authentication vs Authorization | ✅ Completed | [Open](Spring-S4/01-Spring-Security/06-Authentication-vs-Authorization/README.md) |
 | 1.7 | Principal, Credentials and Authorities | ✅ Completed | [Open](Spring-S4/01-Spring-Security/07-Principal-Credentials-and-Authorities/README.md) |
-| 1.8 | SecurityContext and SecurityContextHolder | ⏳ Pending | — |
+| 1.8 | SecurityContext and SecurityContextHolder | ✅ Completed | [Open](Spring-S4/01-Spring-Security/08-SecurityContext-and-SecurityContextHolder/README.md) |
 | 1.9 | AuthenticationManager and ProviderManager | ⏳ Pending | — |
 | 1.10 | AuthenticationProvider | ⏳ Pending | — |
 | 1.11 | UserDetails and UserDetailsService | ⏳ Pending | — |
@@ -204,3 +188,4 @@
 | 1.50 | Security Best Practices & Production Checklist | ⏳ Pending | — |
 | 1.51 | Spring Security 6+ / Spring Boot 3+ Migration Notes | ⏳ Pending | — |
 | 1.52 | Spring Security Interview Questions & Scenarios | ⏳ Pending | — |
+
