@@ -17,7 +17,7 @@
 | 5 | Declaring and Managing Beans | ✅ Completed | [Open](Spring/S1-Introduction/05-Declaring-and-Managing-Beans/README.md) |
 | 6 | BeanFactory vs ApplicationContext | ✅ Completed | [Open](Spring/S1-Introduction/06-BeanFactory-vs-ApplicationContext/README.md) |
 | 7 | Dependencies and Dependency Injection (DI) | ✅ Completed | [Open](Spring/S1-Introduction/07-Dependencies-and-Dependency-Injection/README.md) |
-| 8 | Examining Dependencies | ⏳ Pending | — |
+| 8 | Examining Dependencies | ✅ Completed | [Open](Spring/S1-Introduction/08-Examining-Dependencies/README.md) |
 | 9 | Dependency Inversion / Dependency Injection (DI) | ⏳ Pending | — |
 | 10 | XML Configuration of DI | ⏳ Pending | — |
 | 11 | Spring Bean Autowiring | ⏳ Pending | — |
@@ -36,7 +36,7 @@ S1 — Introduction
 ├── 5. Declaring and Managing Beans                           ✅
 ├── 6. BeanFactory vs ApplicationContext                      ✅
 ├── 7. Dependencies and Dependency Injection (DI)             ✅
-├── 8. Examining Dependencies                                 ⏳
+├── 8. Examining Dependencies                                 ✅
 ├── 9. Dependency Inversion / Dependency Injection (DI)       ⏳
 ├── 10. XML Configuration of DI                               ⏳
 ├── 11. Spring Bean Autowiring                                ⏳
