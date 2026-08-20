@@ -51,10 +51,15 @@
 ---
 
 ### 4. Spring AOP APIs
-- Introduction of Aspect Oriented Programming (The Proxy Pattern)
-- AOP Terminology
-- Types of Advice
-- Custom Logging support Aspect Implementation
+
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 4.1 | Introduction of Aspect Oriented Programming (The Proxy Pattern) | ✅ Completed | [Open](Spring/S1-AOP-APIs/01-Introduction-of-AOP-The-Proxy-Pattern/README.md) |
+| 4.2 | AOP Terminology | ✅ Completed | [Open](Spring/S1-AOP-APIs/02-AOP-Terminology/README.md) |
+| 4.3 | Types of Advice | ✅ Completed | [Open](Spring/S1-AOP-APIs/03-Types-of-Advice/README.md) |
+| 4.4 | Custom Logging support Aspect Implementation | ✅ Completed | [Open](Spring/S1-AOP-APIs/04-Custom-Logging-Support-Aspect-Implementation/README.md) |
+
+---
 
 ## Spring-S2
 
