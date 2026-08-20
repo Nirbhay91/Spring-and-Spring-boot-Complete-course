@@ -46,11 +46,31 @@ S1 — Introduction
 
 ---
 
-### 2. Container Extensions Points
-- Bean Scope and Lifecycle
-- Singleton, Prototype, and Other Scopes
-- Configuring Scope
-- Bean Lifecycle / Callbacks
+### 2. Container Extension Points
+
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/01-Bean-Scope-and-Lifecycle/README.md) |
+| 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/02-Singleton-Prototype-and-Other-Scopes/README.md) |
+| 2.3 | Configuring Scope | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/03-Configuring-Scope/README.md) |
+| 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | [Open](Spring/S1-Container-Extension-Points/04-Bean-Lifecycle-Callbacks/README.md) |
+
+### Container Extension Points Progress
+
+```text
+Spring — S1
+│
+├── 1. Introduction
+│   └── S1.1 → S1.13                         ✅
+│
+└── 2. Container Extension Points
+    ├── 2.1 Bean Scope and Lifecycle          ✅
+    ├── 2.2 Singleton, Prototype, Other       ✅
+    ├── 2.3 Configuring Scope                 ✅
+    └── 2.4 Bean Lifecycle / Callbacks        ⏳
+```
+
+---
 
 ### 3. Spring Expression Language (SpEL)
 - Introduction To SpEL
