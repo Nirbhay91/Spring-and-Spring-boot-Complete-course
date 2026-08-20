@@ -24,26 +24,6 @@
 | 12 | Injection with @Autowired | ✅ Completed | [Open](Spring/S1-Introduction/12-Injection-with-Autowired/README.md) |
 | 13 | Java Based Configuration (@Configuration) | ✅ Completed | [Open](Spring/S1-Introduction/13-Java-Based-Configuration-Configuration/README.md) |
 
-### Introduction Progress
-
-```text
-S1 — Introduction
-│
-├── 1. Overview of Spring Technology                         ✅
-├── 2. The Motivation for Spring, Spring Architecture       ✅
-├── 3. The Spring Framework                                  ✅
-├── 4. Spring Introduction                                   ✅
-├── 5. Declaring and Managing Beans                           ✅
-├── 6. BeanFactory vs ApplicationContext                      ✅
-├── 7. Dependencies and Dependency Injection (DI)             ✅
-├── 8. Examining Dependencies                                 ✅
-├── 9. Dependency Inversion / Dependency Injection (DI)       ✅
-├── 10. XML Configuration of DI                               ✅
-├── 11. Spring Bean Autowiring                                ✅
-├── 12. Injection with @Autowired                              ✅
-└── 13. Java Based Configuration (@Configuration)             ✅
-```
-
 ---
 
 ### 2. Container Extension Points
@@ -53,30 +33,22 @@ S1 — Introduction
 | 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/01-Bean-Scope-and-Lifecycle/README.md) |
 | 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/02-Singleton-Prototype-and-Other-Scopes/README.md) |
 | 2.3 | Configuring Scope | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/03-Configuring-Scope/README.md) |
-| 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | [Open](Spring/S1-Container-Extension-Points/04-Bean-Lifecycle-Callbacks/README.md) |
-
-### Container Extension Points Progress
-
-```text
-Spring — S1
-│
-├── 1. Introduction
-│   └── S1.1 → S1.13                         ✅
-│
-└── 2. Container Extension Points
-    ├── 2.1 Bean Scope and Lifecycle          ✅
-    ├── 2.2 Singleton, Prototype, Other       ✅
-    ├── 2.3 Configuring Scope                 ✅
-    └── 2.4 Bean Lifecycle / Callbacks        ⏳
-```
+| 2.4 | Bean Lifecycle / Callbacks | ✅ Completed | [Open](Spring/S1-Container-Extension-Points/04-Bean-Lifecycle-Callbacks/README.md) |
 
 ---
 
 ### 3. Spring Expression Language (SpEL)
-- Introduction To SpEL
-- SpEL Features
-- SpEL expression evaluation against a specific object instance
-- SpEL in Bean Definition
+
+| # | Topic | Status | Link |
+|---|---|---|---|
+| 3.1 | Introduction To SpEL | ⏳ Pending | — |
+| 3.2 | SpEL Features | ⏳ Pending | — |
+| 3.3 | SpEL expression evaluation against a specific object instance | ⏳ Pending | — |
+| 3.4 | SpEL in Bean Definition | ⏳ Pending | — |
+
+[Open S1.3 SpEL Folder](Spring/S1-SpEL/README.md)
+
+---
 
 ### 4. Spring AOP APIs
 - Introduction of Aspect Oriented Programming (The Proxy Pattern)
