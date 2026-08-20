@@ -49,7 +49,6 @@
 | 4.3 | Types of Advice | ✅ Completed | [Open](Spring/S1-AOP-APIs/03-Types-of-Advice/README.md) |
 | 4.4 | Custom Logging support Aspect Implementation | ✅ Completed | [Open](Spring/S1-AOP-APIs/04-Custom-Logging-Support-Aspect-Implementation/README.md) |
 
-
 ## Spring-S2
 
 ### 1. DAO Introduction
@@ -131,9 +130,9 @@
 - Custom Actuators and Health Checks
 - Devtools Overview
 
-# Spring - S4
+## Spring - S4
 
-## 1. Spring Security
+### 1. Spring Security
 
 | # | Topic / Subtopic | Status | Link |
 |---|---|---|---|
@@ -161,8 +160,30 @@
 | 1.22 | OpenID Connect (OIDC) | ✅ Completed | [Open](Spring-S4/01-Spring-Security/22-OpenID-Connect-OIDC/README.md) |
 | 1.23 | JWT Authentication | ✅ Completed | [Open](Spring-S4/01-Spring-Security/23-JWT-Authentication/README.md) |
 | 1.24 | OAuth2 Resource Server | ✅ Completed | [Open](Spring-S4/01-Spring-Security/24-OAuth2-Resource-Server/README.md) |
-| 1.25 | OAuth2 Client | ✅ Completed | [Open](Spring-S4/01-Spring-Security/25-OAuth2-Client/README.md) |
-| 1.26 | Next source-sequence topic | ⏳ Pending | — |
+| 1.25 | OAuth2 Client | ⏳ Pending | — |
 
-> **Current progress:** S4.1.25 completed.  
-> **Next source sequence:** S4.1.26 — continue from the next Spring Security topic.
+## Spring - S5 — Advanced & Missing Areas
+
+| # | Topic / Area | Status | Link |
+|---|---|---|---|
+| 5.1 | Spring Boot Auto-Configuration Deep Dive | ⏳ Pending | [Open](Spring-S5/README.md#1-spring-boot-auto-configuration-deep-dive) |
+| 5.2 | Spring Boot Configuration & Profiles | ⏳ Pending | [Open](Spring-S5/README.md#2-spring-boot-configuration--profiles) |
+| 5.3 | Spring Boot Bean & Conditional Configuration | ⏳ Pending | [Open](Spring-S5/README.md#3-spring-boot-bean--conditional-configuration) |
+| 5.4 | Spring Boot REST API Advanced | ⏳ Pending | [Open](Spring-S5/README.md#4-spring-boot-rest-api-advanced) |
+| 5.5 | Spring Data JPA Advanced | ⏳ Pending | [Open](Spring-S5/README.md#5-spring-data-jpa-advanced) |
+| 5.6 | Spring Transaction Management Advanced | ⏳ Pending | [Open](Spring-S5/README.md#6-spring-transaction-management-advanced) |
+| 5.7 | Spring Boot Caching | ⏳ Pending | [Open](Spring-S5/README.md#7-spring-boot-caching) |
+| 5.8 | Spring Boot Testing | ⏳ Pending | [Open](Spring-S5/README.md#8-spring-boot-testing) |
+| 5.9 | Spring Boot Observability | ⏳ Pending | [Open](Spring-S5/README.md#9-spring-boot-observability) |
+| 5.10 | Spring Boot Async & Scheduling | ⏳ Pending | [Open](Spring-S5/README.md#10-spring-boot-async--scheduling) |
+| 5.11 | Spring Boot Messaging & Kafka | ⏳ Pending | [Open](Spring-S5/README.md#11-spring-boot-messaging--kafka) |
+| 5.12 | Spring Boot Microservices Integration | ⏳ Pending | [Open](Spring-S5/README.md#12-spring-boot-microservices-integration) |
+| 5.13 | Spring Boot Security Integration | ⏳ Pending | [Open](Spring-S5/README.md#13-spring-boot-security-integration) |
+| 5.14 | Production Readiness | ⏳ Pending | [Open](Spring-S5/README.md#14-production-readiness) |
+| 5.15 | Docker & Deployment | ⏳ Pending | [Open](Spring-S5/README.md#15-docker--deployment) |
+| 5.16 | Spring Boot Performance | ⏳ Pending | [Open](Spring-S5/README.md#16-spring-boot-performance) |
+| 5.17 | Architecture & Design Scenarios | ⏳ Pending | [Open](Spring-S5/README.md#17-architecture--design-scenarios) |
+| 5.18 | Spring Boot Interview Revision | ⏳ Pending | [Open](Spring-S5/README.md#18-spring-boot-interview-revision) |
+| 5.19 | Spring Boot Final Assessment | ⏳ Pending | [Open](Spring-S5/README.md#19-spring-boot-final-assessment) |
+
+> **S5 purpose:** Covers the major advanced/interview-level gaps identified after reviewing the current S1–S4 roadmap. Existing S1–S4 material is preserved; S5 adds missing areas rather than replacing it.
