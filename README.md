@@ -141,3 +141,66 @@
 - Actuator Endpoints
 - Custom Actuators and Health Checks
 - Devtools Overview
+
+---
+
+# Spring - S4
+
+## 1. Spring Security
+
+> **Study rule:** Spring Security ko interview + production level par sequence mein cover karenge. Har topic/subtopic ka separate folder hoga aur completion ke baad yahan clickable link + status update hoga.
+
+| # | Topic / Subtopic | Status | Link |
+|---|---|---|---|
+| 1.1 | Introduction to Spring Security | ⏳ Pending | — |
+| 1.2 | Why Spring Security? | ⏳ Pending | — |
+| 1.3 | Spring Security Architecture | ⏳ Pending | — |
+| 1.4 | Security Filter Chain | ⏳ Pending | — |
+| 1.5 | DelegatingFilterProxy | ⏳ Pending | — |
+| 1.6 | Authentication vs Authorization | ⏳ Pending | — |
+| 1.7 | Principal, Credentials and Authorities | ⏳ Pending | — |
+| 1.8 | SecurityContext and SecurityContextHolder | ⏳ Pending | — |
+| 1.9 | AuthenticationManager and ProviderManager | ⏳ Pending | — |
+| 1.10 | AuthenticationProvider | ⏳ Pending | — |
+| 1.11 | UserDetails and UserDetailsService | ⏳ Pending | — |
+| 1.12 | PasswordEncoder and BCrypt | ⏳ Pending | — |
+| 1.13 | In-Memory Authentication | ⏳ Pending | — |
+| 1.14 | JDBC/Database-backed Authentication | ⏳ Pending | — |
+| 1.15 | Custom UserDetailsService | ⏳ Pending | — |
+| 1.16 | SecurityFilterChain Configuration | ⏳ Pending | — |
+| 1.17 | Authorization Rules and RequestMatchers | ⏳ Pending | — |
+| 1.18 | Role vs Authority | ⏳ Pending | — |
+| 1.19 | Method-Level Security | ⏳ Pending | — |
+| 1.20 | `@PreAuthorize`, `@PostAuthorize`, `@Secured` | ⏳ Pending | — |
+| 1.21 | Form Login | ⏳ Pending | — |
+| 1.22 | HTTP Basic Authentication | ⏳ Pending | — |
+| 1.23 | Session Management | ⏳ Pending | — |
+| 1.24 | CSRF Protection | ⏳ Pending | — |
+| 1.25 | CORS with Spring Security | ⏳ Pending | — |
+| 1.26 | Exception Handling: AuthenticationEntryPoint & AccessDeniedHandler | ⏳ Pending | — |
+| 1.27 | Stateless vs Stateful Security | ⏳ Pending | — |
+| 1.28 | JWT Authentication Architecture | ⏳ Pending | — |
+| 1.29 | JWT Generation, Validation and Claims | ⏳ Pending | — |
+| 1.30 | JWT Authentication Filter | ⏳ Pending | — |
+| 1.31 | JWT Refresh Token Strategy | ⏳ Pending | — |
+| 1.32 | JWT Revocation / Logout Strategy | ⏳ Pending | — |
+| 1.33 | OAuth 2.0 Fundamentals | ⏳ Pending | — |
+| 1.34 | OAuth 2.0 Roles and Grant Types | ⏳ Pending | — |
+| 1.35 | OpenID Connect (OIDC) | ⏳ Pending | — |
+| 1.36 | OAuth2 Login | ⏳ Pending | — |
+| 1.37 | Resource Server | ⏳ Pending | — |
+| 1.38 | JWT Resource Server | ⏳ Pending | — |
+| 1.39 | Opaque Token Introspection | ⏳ Pending | — |
+| 1.40 | Authorization Server Concepts | ⏳ Pending | — |
+| 1.41 | Security Headers | ⏳ Pending | — |
+| 1.42 | Password Storage & Credential Security | ⏳ Pending | — |
+| 1.43 | Session Fixation, Brute Force and Common Attacks | ⏳ Pending | — |
+| 1.44 | Security Testing with Spring Security Test | ⏳ Pending | — |
+| 1.45 | MockMvc Security Testing | ⏳ Pending | — |
+| 1.46 | Spring Security in Microservices | ⏳ Pending | — |
+| 1.47 | API Gateway + Authentication | ⏳ Pending | — |
+| 1.48 | Service-to-Service Authentication | ⏳ Pending | — |
+| 1.49 | OAuth2 Client Credentials Flow | ⏳ Pending | — |
+| 1.50 | Security Best Practices & Production Checklist | ⏳ Pending | — |
+| 1.51 | Spring Security 6+ / Spring Boot 3+ Migration Notes | ⏳ Pending | — |
+| 1.52 | Spring Security Interview Questions & Scenarios | ⏳ Pending | — |
