@@ -157,7 +157,7 @@
 | 1.3 | Spring Security Architecture | ✅ Completed | [Open](Spring-S4/01-Spring-Security/03-Spring-Security-Architecture/README.md) |
 | 1.4 | Security Filter Chain | ✅ Completed | [Open](Spring-S4/01-Spring-Security/04-Security-Filter-Chain/README.md) |
 | 1.5 | DelegatingFilterProxy | ✅ Completed | [Open](Spring-S4/01-Spring-Security/05-DelegatingFilterProxy/README.md) |
-| 1.6 | Authentication vs Authorization | ⏳ Pending | — |
+| 1.6 | Authentication vs Authorization | ✅ Completed | [Open](Spring-S4/01-Spring-Security/06-Authentication-vs-Authorization/README.md) |
 | 1.7 | Principal, Credentials and Authorities | ⏳ Pending | — |
 | 1.8 | SecurityContext and SecurityContextHolder | ⏳ Pending | — |
 | 1.9 | AuthenticationManager and ProviderManager | ⏳ Pending | — |
