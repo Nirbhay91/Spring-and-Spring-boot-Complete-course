@@ -10,18 +10,16 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 
 ### Topics
 
-| # | Topic | Status | Link |
-|---|---|---|---|
-| 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](01-Bean-Scope-and-Lifecycle/README.md) |
-| 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](02-Singleton-Prototype-and-Other-Scopes/README.md) |
-| 2.3 | Configuring Scope | ✅ Completed | [Open](03-Configuring-Scope/README.md) |
-| 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | — |
+1. [Bean Scope and Lifecycle](01-Bean-Scope-and-Lifecycle/README.md) — ✅ Completed
+2. [Singleton, Prototype, and Other Scopes](02-Singleton-Prototype-and-Other-Scopes/README.md) — ✅ Completed
+3. [Configuring Scope](03-Configuring-Scope/README.md) — ✅ Completed
+4. [Bean Lifecycle / Callbacks](04-Bean-Lifecycle-Callbacks/README.md) — ⏳ Pending
 
 ---
 
 ## What are Container Extension Points?
 
-Spring IoC Container ke default behavior ko customize ya extend karne ke mechanisms ko broadly **Container Extension Points** kaha ja sakta hai.
+Spring IoC Container ke default behavior ko customize ya extend karne ke mechanisms ko broadly **extension points** kaha ja sakta hai.
 
 Simplified flow:
 
@@ -50,7 +48,7 @@ Interview mein important extension mechanisms:
 - `ApplicationContextAware` and related `Aware` interfaces
 - Event-based extension through Spring application events
 
-> **Important:** Is S1.2 section mein pehle source ke listed topics — scope and lifecycle — sequence mein complete karenge. Advanced extension mechanisms ko relevant topic ke saath connect karenge.
+> **Important:** Is S1.2 section mein source ke listed topics ko sequence mein complete karenge. Advanced extension mechanisms ko relevant topic ke saath connect karenge.
 
 ## Interview Mental Model
 
