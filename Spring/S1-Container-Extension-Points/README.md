@@ -13,7 +13,7 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 | # | Topic | Status | Link |
 |---|---|---|---|
 | 2.1 | Bean Scope and Lifecycle | ✅ Completed | [Open](01-Bean-Scope-and-Lifecycle/README.md) |
-| 2.2 | Singleton, Prototype, and Other Scopes | ⏳ Pending | — |
+| 2.2 | Singleton, Prototype, and Other Scopes | ✅ Completed | [Open](02-Singleton-Prototype-and-Other-Scopes/README.md) |
 | 2.3 | Configuring Scope | ⏳ Pending | — |
 | 2.4 | Bean Lifecycle / Callbacks | ⏳ Pending | — |
 
@@ -21,7 +21,7 @@ Spring IoC Container sirf Beans create aur dependencies inject nahi karta. Sprin
 
 ## What are Container Extension Points?
 
-Spring container ke default behavior ko customize ya extend karne ke mechanisms ko broadly **Container Extension Points** kaha ja sakta hai.
+Spring IoC Container ke default behavior ko customize ya extend karne ke mechanisms ko broadly **Container Extension Points** kaha ja sakta hai.
 
 Simplified flow:
 
@@ -88,9 +88,9 @@ Spring — S1
 │
 └── 2. Container Extension Points
     ├── 2.1 Bean Scope and Lifecycle          ✅
-    ├── 2.2 Singleton, Prototype, Other       ⏳
+    ├── 2.2 Singleton, Prototype, Other       ✅
     ├── 2.3 Configuring Scope                 ⏳
     └── 2.4 Bean Lifecycle / Callbacks        ⏳
 ```
 
-**Next:** S1.2.2 — Singleton, Prototype, and Other Scopes
+**Next:** S1.2.3 — Configuring Scope
