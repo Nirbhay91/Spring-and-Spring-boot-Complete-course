@@ -22,7 +22,7 @@
 | 10 | XML Configuration of DI | ✅ Completed | [Open](Spring/S1-Introduction/10-XML-Configuration-of-DI/README.md) |
 | 11 | Spring Bean Autowiring | ✅ Completed | [Open](Spring/S1-Introduction/11-Spring-Bean-Autowiring/README.md) |
 | 12 | Injection with @Autowired | ✅ Completed | [Open](Spring/S1-Introduction/12-Injection-with-Autowired/README.md) |
-| 13 | Java Based Configuration (@Configuration) | ⏳ Pending | — |
+| 13 | Java Based Configuration (@Configuration) | ✅ Completed | [Open](Spring/S1-Introduction/13-Java-Based-Configuration-Configuration/README.md) |
 
 ### Introduction Progress
 
@@ -41,7 +41,7 @@ S1 — Introduction
 ├── 10. XML Configuration of DI                               ✅
 ├── 11. Spring Bean Autowiring                                ✅
 ├── 12. Injection with @Autowired                              ✅
-└── 13. Java Based Configuration (@Configuration)             ⏳
+└── 13. Java Based Configuration (@Configuration)             ✅
 ```
 
 ---
